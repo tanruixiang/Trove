@@ -1,0 +1,106 @@
+[
+  {
+    "category": "Computer Basics",
+    "note": "Start here if you've never been under the hood before.",
+    "items": [
+      { "title": "Nand to Tetris", "format": "course", "desc": "Build a working computer from logic gates up to a running app. The single best way to actually understand how computers work.", "url": "https://www.nand2tetris.org/", "tag": "nand2tetris.org" },
+      { "title": "CS50: Intro to Computer Science", "format": "course", "desc": "Harvard's famous free intro course. covers computing fundamentals from the ground up, no prior experience needed.", "url": "https://cs50.harvard.edu/x/", "tag": "cs50.harvard.edu" },
+      { "title": "Crash Course Computer Science", "format": "video", "desc": "40-episode YouTube series covering everything from binary to the internet, fast and visual.", "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo", "tag": "YouTube" }
+    ]
+  },
+  {
+    "category": "Programming",
+    "note": "Actually writing code, for the first time or the fifth.",
+    "items": [
+      { "title": "freeCodeCamp", "format": "interactive", "desc": "Full curriculum from HTML basics to full-stack projects, entirely free, with real certificates.", "url": "https://www.freecodecamp.org/", "tag": "freecodecamp.org" },
+      { "title": "The Odin Project", "format": "course", "desc": "Project-based full-stack web dev path. Less hand-holding than freeCodeCamp, closer to real work.", "url": "https://www.theodinproject.com/", "tag": "theodinproject.com" },
+      { "title": "Automate the Boring Stuff with Python", "format": "book", "desc": "Free online book teaching Python through practical, useful scripts instead of abstract theory.", "url": "https://automatetheboringstuff.com/", "tag": "automatetheboringstuff.com" },
+      { "title": "MIT 6.100L: Intro to CS with Python", "format": "course", "desc": "MIT OpenCourseWare's intro programming course, lecture videos and problem sets included.", "url": "https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/", "tag": "ocw.mit.edu" }
+    ]
+  },
+  {
+    "category": "Design",
+    "note": "Visual, product, and UI/UX foundations.",
+    "items": [
+      { "title": "Material Design Guidelines", "format": "interactive", "desc": "Google's free, detailed design system documentation. covers color, typography, layout, and components with real reasoning behind each rule.", "url": "https://m3.material.io/", "tag": "m3.material.io" },
+      { "title": "Laws of UX", "format": "interactive", "desc": "Short, visual breakdowns of the psychology principles behind good design decisions.", "url": "https://lawsofux.com/", "tag": "lawsofux.com" },
+      { "title": "Figma's Design 101 (YouTube)", "format": "video", "desc": "Free video series covering design fundamentals directly from the tool most teams design in.", "url": "https://www.youtube.com/@Figma", "tag": "YouTube" }
+    ]
+  },
+  {
+    "category": "Data & AI",
+    "note": "Statistics, machine learning, and working with data.",
+    "items": [
+      { "title": "Khan Academy: Statistics & Probability", "format": "course", "desc": "Free, structured, and the most common recommendation for building real statistical intuition from scratch.", "url": "https://www.khanacademy.org/math/statistics-probability", "tag": "khanacademy.org" },
+      { "title": "fast.ai: Practical Deep Learning", "format": "course", "desc": "Teaches deep learning by building working models first, theory second. made for people who learn by doing.", "url": "https://course.fast.ai/", "tag": "course.fast.ai" },
+      { "title": "3Blue1Brown: Neural Networks", "format": "video", "desc": "The best visual explanation of how neural networks actually work, no heavy math background assumed.", "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi", "tag": "YouTube" }
+    ]
+  },
+  {
+    "category": "Business & Finance",
+    "note": "Money, markets, and how businesses actually run.",
+    "items": [
+      { "title": "Khan Academy: Personal Finance", "format": "course", "desc": "Covers budgeting, saving, credit, and investing basics in plain language, completely free.", "url": "https://www.khanacademy.org/college-careers-more/personal-finance", "tag": "khanacademy.org" },
+      { "title": "Y Combinator's Startup School", "format": "course", "desc": "Free lecture series on building and running an early-stage company, taught by people who've actually done it.", "url": "https://www.startupschool.org/", "tag": "startupschool.org" }
+    ]
+  },
+  {
+    "category": "Languages",
+    "note": "Picking up a new spoken or written language.",
+    "items": [
+      { "title": "Duolingo", "format": "interactive", "desc": "The most accessible starting point for daily language practice. free, gamified, works on mobile.", "url": "https://www.duolingo.com/", "tag": "duolingo.com" },
+      { "title": "BBC Learning English", "format": "course", "desc": "Still active and free daily lessons, grammar, and listening practice from the BBC, though focused on English specifically rather than multiple languages.", "url": "https://www.bbc.co.uk/learningenglish", "tag": "bbc.co.uk" }
+    ]
+  },
+  {
+    "category": "Drawing & Art",
+    "note": "Fundamentals for anyone starting from a blank page.",
+    "items": [
+      { "title": "Drawabox", "format": "course", "desc": "A completely free, structured curriculum built around drawing fundamentals, lines, perspective, form. with homework and a community that critiques your work.", "url": "https://drawabox.com/", "tag": "drawabox.com" },
+      { "title": "Proko", "format": "video", "desc": "Free figure drawing and anatomy lessons from a former Watts Atelier instructor. the most recommended starting point for drawing people.", "url": "https://www.proko.com/", "tag": "proko.com" },
+      { "title": "Ctrl+Paint", "format": "video", "desc": "Free video lessons on digital painting fundamentals, value, color, and composition aimed at total beginners.", "url": "https://www.ctrlpaint.com/", "tag": "ctrlpaint.com" }
+    ]
+  },
+  {
+    "category": "Electronics",
+    "note": "Circuits, components, and building things that actually light up.",
+    "items": [
+      { "title": "All About Circuits", "format": "book", "desc": "A free, textbook-depth online reference covering electronics from basic DC theory up to semiconductors. the internet's most-cited free electronics resource.", "url": "https://www.allaboutcircuits.com/textbook/", "tag": "allaboutcircuits.com" },
+      { "title": "Ben Eater: Building an 8-bit computer", "format": "video", "desc": "A YouTube series building a working computer on breadboards from individual logic chips. genuinely teaches electronics and computer architecture at once.", "url": "https://www.youtube.com/c/BenEater", "tag": "YouTube" },
+      { "title": "Khan Academy: Electrical Engineering", "format": "course", "desc": "Free structured lessons on circuits, currents, and components, building up from first principles.", "url": "https://www.khanacademy.org/science/electrical-engineering", "tag": "khanacademy.org" }
+    ]
+  },
+  {
+    "category": "Rockets & Aerospace",
+    "note": "How things actually leave the ground.",
+    "items": [
+      { "title": "NASA: Beginner's Guide to Rockets", "format": "book", "desc": "NASA's own free, plain-language guide to rocket propulsion and flight, written for students and hobbyists.", "url": "https://www.grc.nasa.gov/www/k-12/rocket/", "tag": "grc.nasa.gov" },
+      { "title": "Everyday Astronaut", "format": "video", "desc": "A YouTube channel that explains real rocket engineering, engines, staging, re-entry in accessible, highly detailed video essays.", "url": "https://www.youtube.com/c/EverydayAstronaut", "tag": "YouTube" },
+      { "title": "MIT OCW: Unified Engineering (Aerospace)", "format": "course", "desc": "MIT's real aerospace engineering coursework, made free through OpenCourseWare. lecture notes, problem sets, and exams included.", "url": "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/", "tag": "ocw.mit.edu" }
+    ]
+  },
+  {
+    "category": "Robotics",
+    "note": "Where mechanics, electronics, and code meet.",
+    "items": [
+      { "title": "Underactuated Robotics (MIT)", "format": "course", "desc": "A free, real MIT course on the math and control theory behind robots that move. lecture videos, notes, and an online textbook, taught by Russ Tedrake.", "url": "https://underactuated.mit.edu/", "tag": "underactuated.mit.edu" },
+      { "title": "MIT OCW: Introduction to Robotics", "format": "course", "desc": "Free lecture notes and assignments covering the fundamentals of how robots sense, plan, and move.", "url": "https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/", "tag": "ocw.mit.edu" }
+    ]
+  },
+  {
+    "category": "Music Production",
+    "note": "Making beats, mixing, and understanding your DAW.",
+    "items": [
+      { "title": "Ableton: Learning Music", "format": "interactive", "desc": "A free, interactive site by Ableton itself that teaches rhythm, melody, and chords by letting you play with them directly in the browser.", "url": "https://learningmusic.ableton.com/", "tag": "learningmusic.ableton.com" },
+      { "title": "In The Mix (YouTube)", "format": "video", "desc": "Free, detailed tutorials on mixing, mastering, and music production workflow, covering multiple DAWs.", "url": "https://www.youtube.com/@Inthemixmusic", "tag": "YouTube" }
+    ]
+  },
+  {
+    "category": "Game Development",
+    "note": "Building an actual playable game from scratch.",
+    "items": [
+      { "title": "CS50's Introduction to Game Development", "format": "course", "desc": "Harvard's free course teaching 2D game development principles by rebuilding classic games.", "url": "https://cs50.harvard.edu/games/", "tag": "cs50.harvard.edu" },
+      { "title": "Brackeys (YouTube)", "format": "video", "desc": "One of the most recommended free Unity tutorial libraries ever made, still fully available and relevant for beginners.", "url": "https://www.youtube.com/@Brackeys", "tag": "YouTube" }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+<svg width="240" height="240" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Trove icon</title>
+<desc>A minimal lightbulb mark</desc>
+<rect width="120" height="120" rx="18" fill="#1E2A3A"/>
+
+<g fill="none" stroke="#ECEDE7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M60 22 C41 22 26 37 26 55 C26 68 33 76 39 83 C43 88 45 91 45 96 L75 96 C75 91 77 88 81 83 C87 76 94 68 94 55 C94 37 79 22 60 22 Z"/>
+  <line x1="47" y1="102" x2="73" y2="102"/>
+  <line x1="47" y1="109" x2="73" y2="109"/>
+  <path d="M52 116 C52 118 55 120 60 120 C65 120 68 118 68 116"/>
+</g>
+</svg>
