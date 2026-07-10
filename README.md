@@ -40,8 +40,9 @@ Either way, it gets reviewed before merging. A few ground rules:
 
 ## Community
 
-There's a Discord for this too, mostly for discussing what to add and just talking about learning stuff in general. [add invite link here]
+There's a Discord for this too, mostly for discussing what to add and just talking about learning stuff in general. https://discord.gg/MHgmzgEqFE
 
 ## License
+MIT 
 
 [decide and add one, MIT is a common simple choice for something like this]
