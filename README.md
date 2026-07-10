@@ -2,7 +2,7 @@
 
 A free, community curated directory of learning resources. Pick a topic, get a short list of the best free things to learn it from, instead of digging through search results for an hour.
 
-Live site: [add your GitHub Pages link here once it's up]
+Live site: https://bits232.github.io/Trove/
 
 ## What this is
 
@@ -42,7 +42,3 @@ Either way, it gets reviewed before merging. A few ground rules:
 
 There's a Discord for this too, mostly for discussing what to add and just talking about learning stuff in general. https://discord.gg/MHgmzgEqFE
 
-## License
-MIT 
-
-[decide and add one, MIT is a common simple choice for something like this]
