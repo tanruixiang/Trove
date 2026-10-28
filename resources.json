@@ -33,7 +33,8 @@
     "items": [
       { "title": "Khan Academy: Statistics & Probability", "format": "course", "desc": "Free, structured, and the most common recommendation for building real statistical intuition from scratch.", "url": "https://www.khanacademy.org/math/statistics-probability", "tag": "khanacademy.org" },
       { "title": "fast.ai: Practical Deep Learning", "format": "course", "desc": "Teaches deep learning by building working models first, theory second. made for people who learn by doing.", "url": "https://course.fast.ai/", "tag": "course.fast.ai" },
-      { "title": "3Blue1Brown: Neural Networks", "format": "video", "desc": "The best visual explanation of how neural networks actually work, no heavy math background assumed.", "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi", "tag": "YouTube" }
+      { "title": "3Blue1Brown: Neural Networks", "format": "video", "desc": "The best visual explanation of how neural networks actually work, no heavy math background assumed.", "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi", "tag": "YouTube" },
+      { "title": "SheetTutor", "format": "interactive", "desc": "Practise Excel formulas in editable browser spreadsheets with answer checks and downloadable workbooks, free without an account.", "url": "https://sheettutor.top/", "tag": "sheettutor.top" }
     ]
   },
   {
